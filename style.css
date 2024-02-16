@@ -159,7 +159,7 @@ a {
   max-width: 100%;
   height: 600px;
   position: relative;
-  background: url("/img/joel-muniz-nLNN8agALsc-unsplash.jpg") no-repeat center
+  background: url("img/joel-muniz-nLNN8agALsc-unsplash.jpg") no-repeat center
     bottom/cover;
 }
 
