@@ -159,8 +159,8 @@ a {
   max-width: 100%;
   height: 600px;
   position: relative;
-  background-image: url("/img/joel-muniz-nLNN8agALsc-unsplash.jpg") no-repeat
-    center bottom/cover;
+  background: url("/img/joel-muniz-nLNN8agALsc-unsplash.jpg") no-repeat center
+    bottom/cover;
 }
 
 .section-2-inner {
